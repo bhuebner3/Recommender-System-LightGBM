@@ -13,6 +13,10 @@ Baseline - Creates and evaluates baseline model
 
 First_Attempt-Copy1 - Not relevant. Scratch code for subsetting data ect
 
+LGBM_article2vec - performs TFIDF and item cos similarity
+
+LGBM_model_train - implements and evaluates model
+
 Subsampling - Creates train and test sets
 
 Transactions_EDA - Exploratory data analysis of customers file + transactions file
