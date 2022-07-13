@@ -9,6 +9,8 @@ File Descriptions:
 
 Article_EDA - Exploratory data analysis of article file. Also creates combined plot of age and index
 
+Baseline - Creates and evaluates baseline model
+
 Subsampling - Creates train and test sets
 
 Transactions_EDA - Exploratory data analysis of customers file + transactions file
