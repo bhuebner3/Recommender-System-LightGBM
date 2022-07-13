@@ -11,6 +11,10 @@ Article_EDA - Exploratory data analysis of article file. Also creates combined p
 
 Baseline - Creates and evaluates baseline model
 
+First_Attempt-Copy1 - Not relevant. Scratch code for subsetting data ect
+
 Subsampling - Creates train and test sets
 
 Transactions_EDA - Exploratory data analysis of customers file + transactions file
+
+UUCF - Implement and evaluate UUCF model
