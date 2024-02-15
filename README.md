@@ -16,7 +16,6 @@ The primary objective of this project is to develop a robust recommender system 
 - **LightGBM (LGBM)**: For implementing the gradient boosting model.
 - **NLTK & WordCloud**: For text processing and generating word clouds from product descriptions.
 - **Matplotlib**: For data visualization.
-- **Tqdm**: For progress tracking during data processing.
 - **Pickle**: For saving and loading Python objects.
 - **Scipy**: For sparse matrix operations and linear algebra.
 
