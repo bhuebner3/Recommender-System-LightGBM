@@ -17,7 +17,8 @@ The dataset provided by H&M for the Kaggle competition (https://www.kaggle.com/c
 ### Exploratory Data Analysis
 The project begins with a thorough EDA, examining variable distributions and exploring the data to gain insights that may be used in feature engineering. Below is the plot showing customer age distribution, and most common items sold.
 
-![eda](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/a5971c79-8822-45c8-a77a-e88678ed9e07)
+![eda_small](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/954d9641-a92e-4f68-8417-00c5c930512d)
+
 
 
 ### Feature Engineering
@@ -46,7 +47,8 @@ of purchases in the same category, section, ect)
 ## Results
 The evaluation metric used was Mean Average Precision @ 12 (MAP@12), with the LGBM model significantly outperforming the baseline and UUCF approaches. The project demonstrates the effectiveness of using gradient boosting and feature engineering to tackle the challenges inherent in fashion recommender systems.
 
-![results](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/89fa1ee1-323a-4690-a9db-e93f3448380a)
+![results_small](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/13f98ced-74e4-4c3f-8c6e-4706bc5e28e3)
+
 
 
 
