@@ -1,14 +1,14 @@
 
-# H&M Personalized Fashion Recommendations Using XGBoost
+# H&M Personalized Fashion Recommendations Using LightGBM
 
 ## Project Overview
 This project explores the development of a recommender system for the fashion industry, specifically tailored for H&M's extensive product catalog. With the surge in online shopping, providing personalized recommendations has become crucial for enhancing customer experience and driving sales. Given the dynamic nature of fashion trends and the challenge of limited explicit feedback, this project adopts XGBoost, a non-traditional machine learning algorithm, to offer personalized fashion recommendations.
 
 ## Objective
-The primary objective of this project is to develop a robust recommender system using lightgbm. By leveraging a dataset comprised of customer transactions, product metadata, and additional content features, the project aims to:
+The primary objective of this project is to develop a robust recommender system using LightGBM. By leveraging a dataset comprised of customer transactions, product metadata, and additional content features, the project aims to:
 - Improve the accuracy of fashion item recommendations for H&M's diverse customer base.
 - Address the challenges posed by sparse explicit feedback through the innovative use of transactional and behavioral data.
-- Utilize non-traditional machine learning techniques, specifically lightgbm, to explore new avenues in recommender system development within the retail sector.
+- Utilize non-traditional machine learning techniques, specifically LightGBM, to explore new avenues in recommender system development within the retail sector.
 
 ## Tools and Libraries Used
 - **Pandas & Numpy**: For data manipulation and numerical operations.
