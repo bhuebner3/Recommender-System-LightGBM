@@ -10,6 +10,16 @@ The primary objective of this project is to develop a robust recommender system 
 - Address the challenges posed by sparse explicit feedback through the innovative use of transactional and behavioral data.
 - Utilize non-traditional machine learning techniques, specifically lightgbm, to explore new avenues in recommender system development within the retail sector.
 
+## Tools and Libraries Used
+- **Pandas & Numpy**: For data manipulation and numerical operations.
+- **Scikit-learn**: For model selection, preprocessing, and machine learning utilities.
+- **LightGBM (LGBM)**: For implementing the gradient boosting model.
+- **NLTK & WordCloud**: For text processing and generating word clouds from product descriptions.
+- **Matplotlib**: For data visualization.
+- **Tqdm**: For progress tracking during data processing.
+- **Pickle**: For saving and loading Python objects.
+- **Scipy**: For sparse matrix operations and linear algebra.
+
 ## Data
 The dataset provided by H&M for the Kaggle competition (https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) comprises two years of customer transaction data, including 1.3M unique customers and over 100K fashion items, resulting in 32M transactions. The data encompasses previous transactions, customer demographics, product metadata, text from product descriptions, and images of the garments.
 
