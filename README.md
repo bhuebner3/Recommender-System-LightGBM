@@ -20,6 +20,16 @@ The primary objective of this project is to develop a robust recommender system 
 - **Pickle**: For saving and loading Python objects.
 - **Scipy**: For sparse matrix operations and linear algebra.
 
+## Techniques Used
+- **Text Processing (NLP)**: Utilized Term Frequency-Inverse Document Frequency (TF-IDF) for extracting insights from product descriptions.
+- **Truncated Singular Value Decomposition (SVD)**: Reduced the dimensionality of TF-IDF vectors to create compact representations of articles.
+- **Nearest Neighbors**: Identified similar articles based on their vector representations to suggest items with similar characteristics.
+- **Gradient Boosting with LightGBM**: Utilized for the core recommendation model, predicting customer preferences based on engineered features.
+- **Feature Engineering**: Extensively engineered features from transactional data, customer demographics, and article attributes to capture diverse interactions and preferences.
+- **Cosine Similarity**: Calculated similarity scores between articles to enhance recommendation relevance.
+- **Collaborative Filtering**: Explored User-User Collaborative Filtering (UUCF) for recommendations based on similar user behaviors.
+
+
 ## Data
 The dataset provided by H&M for the Kaggle competition (https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations) comprises two years of customer transaction data, including 1.3M unique customers and over 100K fashion items, resulting in 32M transactions. The data encompasses previous transactions, customer demographics, product metadata, text from product descriptions, and images of the garments.
 
