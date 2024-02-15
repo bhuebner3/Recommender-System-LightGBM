@@ -35,6 +35,7 @@ of purchases in the same category, section, ect)
 1. **Popular Items (Baseline)**: Recommending the 12 most popular items to all customers served as the baseline for comparison.
 2. **User-User Collaborative Filtering (UUCF)**: A memory-based collaborative filtering approach focusing on user-item interactions.
 3. **Light Gradient Boosting Machine (LGBM)**: A model-based approach utilizing gradient boosting techniques for binary classification tasks, ultimately selected for its performance and computational efficiency.
+<br />
 ![gbm](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/6be906e5-f55b-4ccc-9f1c-587ea0dd5f4a)
 
 
