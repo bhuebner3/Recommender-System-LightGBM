@@ -37,13 +37,15 @@ of purchases in the same category, section, ect)
 2. **User-User Collaborative Filtering (UUCF)**: A memory-based collaborative filtering approach focusing on user-item interactions.
 3. **Light Gradient Boosting Machine (LGBM)**: A model-based approach utilizing gradient boosting techniques for binary classification tasks, ultimately selected for its performance and computational efficiency.
 
-![gbm](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/6be906e5-f55b-4ccc-9f1c-587ea0dd5f4a)
+![gbm_small](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/9d8142c4-b097-41e4-8fd7-ed124689fc1d)
+
 
 
 
 
 ## Results
 The evaluation metric used was Mean Average Precision @ 12 (MAP@12), with the LGBM model significantly outperforming the baseline and UUCF approaches. The project demonstrates the effectiveness of using gradient boosting and feature engineering to tackle the challenges inherent in fashion recommender systems.
+
 ![results](https://github.com/bhuebner3/H-M-Kaggle/assets/73898316/89fa1ee1-323a-4690-a9db-e93f3448380a)
 
 
