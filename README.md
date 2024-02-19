@@ -76,21 +76,3 @@ The analysis highlighted the potential of non-traditional algorithms in building
 ## Conclusion
 This project underscores the value of advanced machine learning techniques in developing recommender systems for the fashion industry. By adopting a methodical approach to feature engineering and leveraging the power of XGBoost, we can offer personalized recommendations that enhance the shopping experience, drive sales, and potentially reduce the environmental impact through minimized returns.
 
-
-**File Descriptions:**
-
-Article_EDA - Exploratory data analysis of article file. Also creates combined plot of age and index
-
-Baseline - Creates and evaluates baseline model
-
-First_Attempt-Copy1 - Not relevant. Scratch code for subsetting data ect
-
-LGBM_article2vec - performs TFIDF and item cos similarity
-
-LGBM_model_train - implements and evaluates model
-
-Subsampling - Creates train and test sets
-
-Transactions_EDA - Exploratory data analysis of customers file + transactions file
-
-UUCF - Implement and evaluate UUCF model
